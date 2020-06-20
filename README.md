@@ -20,6 +20,10 @@ Dataset files:
 - new_york_city.csv
 - washington.csv
 
-
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Different sources were consulted, among which the following stand out:
+- Udacity course material and videos;
+- Python documentation and NumPy and Pandas libraries;
+- I also consulted the following books:
+    - Python for Data Analysis: Data Wrangling with Pandas, Numpy, and Ipython. By Wes McKinney.
+    - Python Crash Course: A Hands-On, Project-Based Introduction to Programming (2nd Edition). By Eric Matthes.
